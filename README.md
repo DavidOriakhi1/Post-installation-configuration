@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/HgdExfu.jpgheight="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  Once I logged into osTicket as an admin, I configured the settings for the role of 'supreme admin' to be adble to assign tickets to other agents
+  Once I logged into osTicket as an admin, I configured the settings for the role of 'supreme admin' to be able to assign tickets to other agents
 </p>
 <br />
 
