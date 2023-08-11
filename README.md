@@ -57,3 +57,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Within the Agent panel, I created a user who will have an issue that needs troubleshooting or information from a member of the support team. 
 </p>
+
+<p>
+<img src="https://i.imgur.com/OXZf4FH.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<p>
+  Back in the Admin Panel, I created Service Level Agreements' (SLA's) which determine the severity of each ticket in order of priority - SEV-A being highest where issues need to be resolved within an hour and support is open on a 24hr basis. SEV-C is the lowest priority and support tickets for this level can be resolved in 8 hours or more with support available from monday-friday 8am-5pm
+</p>
+
+<p>
+<img src="https://i.imgur.com/tGf8lbw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<p>
+  Within the Agent panel, I created a user who will have an issue that needs troubleshooting or information from a member of the support team. 
+</p>
