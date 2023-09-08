@@ -45,7 +45,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/U6ivJBV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6MEWAdD.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/tXbRe7A.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
   Then, I created an agent under the name 'Jane Doe' as a member of the support team who the tickets will be assigned to giving them 'supreme admin' access also allowing them to assign, open and close tickets. 
