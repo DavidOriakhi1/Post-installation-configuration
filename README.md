@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/sZf1cXo.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0EznBgC.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Next, I created a new department named 'Systems Administrators' for the agents who have admin access to assign roles, attend to high level SLA's etc. 
