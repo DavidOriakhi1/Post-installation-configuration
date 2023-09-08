@@ -52,7 +52,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 
 <p>
-<img src="https://i.imgur.com/tGf8lbw.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8it0AUd.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <p>
   Within the Agent panel, I created a user who will have an issue that needs troubleshooting or information from a member of the support team. 
